@@ -1,3 +1,16 @@
+!!!!!!!!!! This is manualy changed repo copied from verkon repo !!!!!! 
+in future this repo should be replaced with composer patches or with differente process
+
+manually changed file: 
+src/Utils/Image.php
+
+method: "resize"
+added "Cleaning white noise on white background images" 
+
+
+
+
+
 Nette Utility Classes
 =====================
 
